@@ -1,2 +1,2 @@
 # Web
-Python web rec tools
+Simple python web recognition tools.
